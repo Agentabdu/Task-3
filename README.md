@@ -16,7 +16,7 @@ first takes 30 pictures of webcam capture of the face,
 
 then it will train by using the data,
 
-then finally it will identify user of the trained data.
+finally it will identify user of the trained data.
 
 
 ## Task2
