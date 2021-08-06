@@ -12,7 +12,7 @@ https://github.com/vschs007/flask-realtime-face-detection-opencv-python
 
 What it does is, 
 
-first takes 30 pictures of webcam capture of the face,
+first, it takes 30 pictures of webcam, it captures cam view of the face,
 
 then it will train by using the data,
 
